@@ -28,6 +28,6 @@ RuNotion - это браузерное расширение для перево�
 ## Chrome и Firefox
 Проекта официально не будет в магазине расширений Chrome из-за невозможности оплаты платежа за регистрацию с Российских карт. Вы можете добавить его сами по инструкции.
 
-**Дополнение официально в Firefox! Добавьте его в один клик по ссылке: https://addons.mozilla.org/ru/firefox/addon/runotion/
+**Дополнение официально в Firefox!** Добавьте его в один клик по ссылке: https://addons.mozilla.org/ru/firefox/addon/runotion/
 
 https://boosty.to/qumii2
